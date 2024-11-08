@@ -1,0 +1,7 @@
+fastapi
+boto3
+pillow
+python-multipart
+pytest
+moto
+uvicorn
